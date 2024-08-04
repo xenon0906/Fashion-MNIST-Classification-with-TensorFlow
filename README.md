@@ -123,7 +123,7 @@ This project demonstrates how to build and train a neural network model to class
 
 ## Requirements
 
-- TensorFlow 2.x
+- TensorFlow 
 - NumPy
 - Matplotlib
 
