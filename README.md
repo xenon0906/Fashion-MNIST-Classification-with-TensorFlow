@@ -138,7 +138,3 @@ This project demonstrates how to build and train a neural network model to class
 - Experiment with different neural network architectures.
 - Implement data augmentation to improve model robustness.
 - Explore transfer learning with pre-trained models.
-
----
-
-Would you like any specific details added or modified in this README?
